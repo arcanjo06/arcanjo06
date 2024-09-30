@@ -19,6 +19,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com uma paixão pela
 Sinta-se à vontade para entrar em contato comigo:
 
 - 📧 Email: [arcanjolevi000@gmail.com](mailto:arcanjolevi000@gmail.com)
-- 🌐 LinkedIn: [Levi-Murilo]([https://www.linkedin.com/in/levi-murilo/])
+- 🌐 LinkedIn: [Levi-Murilo](https://www.linkedin.com/in/levi-murilo/)
 
 ### Vamos nos conectar! 🚀
