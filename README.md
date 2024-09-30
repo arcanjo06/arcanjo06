@@ -9,6 +9,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com uma paixão pela
 - **Outras Linguagens**: Python, C
 - **Autodidata**: Proficiência em inglês adquirida através de autoestudo.
 
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcanjo06&show_icons=true&theme=radical)
+
 ### Interesses
 - Desenvolvimento de jogos
 - Criação de aplicações web
