@@ -3,12 +3,6 @@
 ## Sobre Mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas, com uma paixão pela programação e tecnologia. Durante a pandemia, dediquei-me ao estudo da programação, desenvolvendo uma forte base em várias linguagens e tecnologias.
 
-### Habilidades
-- **Programação**: Java, JavaScript
-- **Desenvolvimento Web**: HTML, CSS, PHP
-- **Outras Linguagens**: Python, C
-- **Autodidata**: Proficiência em inglês adquirida através de autoestudo.
-
 # Meu Codigo Em Numeros:
 
 ### 💻 Tech Stack:
