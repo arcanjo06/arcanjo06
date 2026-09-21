@@ -1,7 +1,7 @@
 # Olá! Eu sou o Levi Arcanjo👋
 
 ## Sobre Mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas, com uma paixão pela programação e tecnologia. Durante a pandemia, dediquei-me ao estudo da programação, desenvolvendo uma forte base em várias linguagens e tecnologias.
+Sou um estudante de tecnologia e negocios, com uma paixão pela programação. Durante a pandemia, dediquei-me ao estudo da programação, desenvolvendo uma forte base em várias linguagens e tecnologias.
 
 # Meu Código Em Números:
 
@@ -12,18 +12,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com uma paixão pela
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arcanjo06&theme=vue-dark&hide_border=false)](https://github.com/arcanjo06)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=arcanjo06&theme=vue-dark&hide_border=false&show_icons=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjo06&theme=vue-dark&hide_border=false&count_private=true&layout=compact)
-
-### 🐍 Contribuições:
-![Snake animation](https://raw.githubusercontent.com/arcanjo06/arcanjo06/output/github-contribution-grid-snake-dark.svg)
-
-### 🏆 Troféus GitHub:
-![](https://github-profile-trophy.vercel.app/?username=arcanjo06&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 📈 Atividade de Contribuições:
-![](https://github-readme-activity-graph.vercel.app/graph?username=arcanjo06&theme=vue&hide_border=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=arcanjo06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
