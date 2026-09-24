@@ -12,6 +12,7 @@ Sou um estudante de tecnologia e negocios, com uma paixão pela programação. D
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arcanjo06&theme=vue-dark&hide_border=false)](https://github.com/arcanjo06)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=arcanjo06&theme=vue-dark&hide_border=false&show_icons=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjo06&theme=vue-dark&hide_border=false&count_private=true&layout=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=arcanjo06)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
